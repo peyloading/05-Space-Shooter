@@ -1,4 +1,4 @@
-import sys, logging, os, random, math, open_color, arcade
+import sys, logging, os, random, math, open_color, arcade, pyglet
 #check to make sure we are running the right version of Python
 version = (3,7)
 assert sys.version_info >= version, "This script requires at least Python {0}.{1}".format(version[0],version[1])
@@ -107,6 +107,11 @@ class Window(arcade.Window):
 
 
 def main():
+    music_player = pyglet.media.Player()
+    source = pyglet.media.load("assets/lucid.dreams.wav")
+    music_player.queue(source)
+    music_player.play()
+
     arcade.window = Window(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
     arcade.window.setup()
     arcade.run()

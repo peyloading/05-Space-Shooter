@@ -7,3 +7,5 @@ I have added music to the background of my game, so please turn your sound on! H
 https://jameshammondrf.bandcamp.com/album/video-game-inspired-songs-and-loops-royalty-free
 
 Update 1.1 : Audio actually isn't working! Audio has been taken out to allow game to run.
+
+Update 1.2 Audio has been added! Please turn your computer sound on!
