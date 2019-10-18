@@ -1,0 +1,38 @@
+Name: Noah Ramsey
+Date: 10/18/2019
+Project: Space Shooter
+Peer's repository: https://github.com/peyloading/05-Space-Shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+
+Arcade has sound functionality! 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+ The usage of sound was really impressive to me and I'd like to look into it for future assignments. 
+
+What suggestions would you have for your peer to improve his/her code?
+
+Consider implementing movement to the ships or maybe sound effects for the bullets. 
+
+What could have been clearer or better commented?
+
+How the music program runs. 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ Everything is where it needs to be for the game to work, but I was confused about why the ships are placed so oddly. 
+
+Does the repository contain an appropriate LICENSE?
+
+ Yup.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+You could go a little more into your thought process about why you chose the music/colors you did, but other than that it's great!
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+The music was super a e s t h e t ic and made me happy to play your game. Plus the pinks you chose were really rad. 
